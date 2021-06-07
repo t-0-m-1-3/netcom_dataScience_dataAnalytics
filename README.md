@@ -2,6 +2,8 @@
 ---
 Day 1
 * Lab And Intro to Python
+* [data files](https://drive.google.com/file/d/1TtqZDek6TxC_hAHpMwK3TCJBVBlMZmTE/view?usp=sharing)
+* [vm](https://www.dropbox.com/s/sxh09e3ffnxkhon/data-science.ova?dl=0)
 * Intermediate Python
 * Intro to Machine Learning or Stats for Hackers  
 
