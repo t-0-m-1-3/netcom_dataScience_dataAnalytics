@@ -57,7 +57,7 @@ Day 5
   * [State of Tools: Scipy 2015 Keynote](https://www.youtube.com/watch?v=5GlNDD7qbP4&t=1s)
     * [His Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
   * [violent python in python 3](https://github.com/EONRaider/violent-python3)
-    * [Intersting Google Dork](@google:(github:violent python) & (filetype:pdf))
+    * **Intersting Google Dork** `(@google:(github:violent python) & (filetype:pdf))`
   * [ReGex By Al Sweigert](https://www.youtube.com/watch?v=abrcJ9MpF60)
     * [His Book](https://automatetheboringstuff.com/2e/chapter0/) 
   * [PyCon on youtube: Hacking Nintendo Game](https://www.youtube.com/watch?v=v75rNdPukuI)
