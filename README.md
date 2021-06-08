@@ -7,7 +7,22 @@ Day 1
 * Intermediate Python
 * Intro to Machine Learning: Team Data Science Life Cycle
 *  Question: Pertaining to [model leakage](https://en.wikipedia.org/wiki/Leakage_(machine_learning)#cite_note-KaufmanKDD11-1): 
+![towards data science example](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fhow-data-leakage-affects-machine-learning-models-in-practice-f448be6080d0&psig=AOvVaw0RtW9kwggaZmRfFlx-BGxA&ust=1623207674600000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNimuvqFh_ECFQAAAAAdAAAAABAD)
 > In statistics and machine learning, leakage (also known as data leakage or target leakage) is the use of information in the model training process which would not be expected to be available at prediction time, causing the predictive scores (metrics) to overestimate the model's utility when run in a production environment.
+* R Code Example
+```R
+> x <- c(1, 5, 4, 9, 0)
+> typeof(x)
+[1] "double"
+> length(x)
+[1] 5
+> x <- c(1, 5.4, TRUE, "hello")
+> x
+[1] "1"     "5.4"   "TRUE"  "hello"
+> typeof(x)
+[1] "character"
+```
+* Reversing a Python String
 ```python
 # reversing a string, I forgot to use the `''.join.reverse()` or negative indexing with `[::-1]`
 'a string'[::-1]
@@ -42,7 +57,7 @@ Day 5
   * [State of Tools: Scipy 2015 Keynote](https://www.youtube.com/watch?v=5GlNDD7qbP4&t=1s)
     * [His Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
   * [violent python in python 3](https://github.com/EONRaider/violent-python3)
-    * [Intersting Google Dork](@google:(github:violent python) & (filetype:pdf))
+    * **Intersting Google Dork** `(@google:(github:violent python) & (filetype:pdf))`
   * [ReGex By Al Sweigert](https://www.youtube.com/watch?v=abrcJ9MpF60)
     * [His Book](https://automatetheboringstuff.com/2e/chapter0/) 
   * [PyCon on youtube: Hacking Nintendo Game](https://www.youtube.com/watch?v=v75rNdPukuI)
