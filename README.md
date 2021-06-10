@@ -88,6 +88,7 @@
 ### SKLearn Con Notebooks:
 ----
 [TODO] The `figure` modules is out of date and needs to be updated; 
+[patch 1] `find ./ -type f -exec sed -i -e 's/from-missing-library/import fix/g' {} \;`
 
 * [Recap of the SKLearn API and which Estimator has which output](https://github.com/t-0-m-1-3/netcom_dataScience_dataAnalytics/blob/main/Day3/scipy-2018-sklearn-master/notebooks/09.Review_of_Scikit-learn_API.ipynb)
   * Some models do have the `model.transform` method attached to them once they are fit; `sklearn.preprocessing` has this enabling you to create processing pipelines and clean data at scale; Other models will also have `.transform` showing more findings by the model that may help for visualization, etc.
