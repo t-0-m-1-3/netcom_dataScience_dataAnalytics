@@ -63,6 +63,10 @@
 ## Day 3
 -----
 **References Related to Questions Asked**:
+* [Virtual Env Management - Stack Overflow Dependency Hell](https://stackoverflow.com/questions/54475042/python-dependency-hell-a-compromise-between-virtualenv-and-global-dependencies)
+* [Virtual Env Management - Reddit Answers](https://www.reddit.com/r/Python/comments/8clufh/how_do_you_manage_your_virtualenv/dxhdifx/)
+  * A quote from my friend who is a python instructor as well:
+  > I use venv for everything I'm going to show off, but my poor global state is masive and conflicts all the time
 * [Crash Course in Applied Linear Algebra](https://www.youtube.com/watch?v=wkxgZirbCr4)
 * Time Series Focused PostgreSQL [TimeScaleDB](https://www.timescale.com/)
 * Blow the server up and still survive [CockroachDB](https://www.cockroachlabs.com/)
