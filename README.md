@@ -135,9 +135,15 @@
 * 14-model-complexity and grid search 
 * 15-Pipelining Estimators
 * 16-Performance Metrics and Model Eval
-* Decision Tree
-* Ensemble Models
-* Feature Extraction 
+~* 17-In Depth Linear~
+~* 18-In Depth Tree and Forests~
+~* 19-Feature Selection~
+~* 20-Heriarchical and Density Clustering~
+
+~* Ensemble Models~
+* NLTK ( 2-1 -> maybe 5-1 )
+* Association Rules
+
 
 ### Day 5
 ----
