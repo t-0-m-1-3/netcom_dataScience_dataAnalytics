@@ -5,6 +5,7 @@
 ---
 * Lab And Intro to Python
   * [data files](https://drive.google.com/file/d/1TtqZDek6TxC_hAHpMwK3TCJBVBlMZmTE/view?usp=sharing)
+  * [loan](https://docs.google.com/spreadsheets/d/19OL5WxoxqfbY-JAeyfNGAuYv5kCbBlxaWgAI2o_Dn4I/edit#gid=0)
   * [vm](https://www.dropbox.com/s/sxh09e3ffnxkhon/data-science.ova?dl=0)
 * Intermediate Python
 * Intro to Machine Learning: Team Data Science Life Cycle
